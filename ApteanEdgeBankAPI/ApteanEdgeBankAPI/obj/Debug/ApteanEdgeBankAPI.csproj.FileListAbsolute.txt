@@ -1,0 +1,14 @@
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.csprojResolveAssemblyReference.cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\ApteanEdgeBankAPI\ApteanEdgeBankAPI\bin\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\ApteanEdgeBankAPI\ApteanEdgeBankAPI\bin\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankAPI\ApteanEdgeBankAPI\bin\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankAPI\ApteanEdgeBankAPI\bin\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankAPI\ApteanEdgeBankAPI\bin\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankAPI\ApteanEdgeBankAPI\bin\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.csprojResolveAssemblyReference.cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankAPI\ApteanEdgeBankAPI\obj\Debug\ApteanEdgeBankAPI.pdb

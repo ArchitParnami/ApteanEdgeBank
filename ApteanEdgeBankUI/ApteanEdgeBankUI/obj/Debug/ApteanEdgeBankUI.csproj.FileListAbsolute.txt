@@ -1,0 +1,135 @@
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.config
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddCustomerForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ChequingAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.IssueLoanForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LiabilityAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.TFSAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerManagementForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LoginForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.Properties.Resources.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csproj.GenerateResource.Cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ActivityLogForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.BankAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csprojResolveAssemblyReference.cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.application
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.application
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.config
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.application
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csprojResolveAssemblyReference.cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ActivityLogForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddCustomerForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.BankAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ChequingAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.IssueLoanForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LiabilityAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.TFSAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerManagementForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LoginForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.Properties.Resources.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csproj.GenerateResource.Cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.application
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.config
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.application
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csprojResolveAssemblyReference.cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ActivityLogForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddCustomerForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.BankAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ChequingAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.IssueLoanForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LiabilityAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.TFSAccountForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerManagementForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LoginForm.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.Properties.Resources.resources
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csproj.GenerateResource.Cache
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.application
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.config
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.pdb
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.manifest
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.application
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.pdb
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.dll
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.dll
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.pdb
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.pdb
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csprojResolveAssemblyReference.cache
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ActivityLogForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddAccountForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddCustomerForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.BankAccountForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ChequingAccountForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.IssueLoanForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LiabilityAccountForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.TFSAccountForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerManagementForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LoginForm.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.Properties.Resources.resources
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csproj.GenerateResource.Cache
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe.manifest
+I:\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.application
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.config
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.application
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.exe
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankUI.pdb
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.dll
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankAPI.pdb
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\bin\Debug\ApteanEdgeBankDB.pdb
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csprojResolveAssemblyReference.cache
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ActivityLogForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddAccountForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.AddCustomerForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.BankAccountForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.ChequingAccountForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.IssueLoanForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LiabilityAccountForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.TFSAccountForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.CustomerManagementForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.LoginForm.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.Properties.Resources.resources
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.csproj.GenerateResource.Cache
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.exe.manifest
+C:\Users\aparnami\Google Drive\Programming\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankUI\ApteanEdgeBankUI\obj\Debug\ApteanEdgeBankUI.application

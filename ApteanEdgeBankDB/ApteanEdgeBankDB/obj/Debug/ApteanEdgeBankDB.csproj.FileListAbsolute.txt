@@ -1,0 +1,8 @@
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankDB\ApteanEdgeBankDB\bin\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankDB\ApteanEdgeBankDB\bin\Debug\ApteanEdgeBankDB.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankDB\ApteanEdgeBankDB\obj\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank\ApteanEdgeBankDB\ApteanEdgeBankDB\obj\Debug\ApteanEdgeBankDB.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankDB\ApteanEdgeBankDB\bin\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankDB\ApteanEdgeBankDB\bin\Debug\ApteanEdgeBankDB.pdb
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankDB\ApteanEdgeBankDB\obj\Debug\ApteanEdgeBankDB.dll
+C:\Users\aparnami\Documents\Visual Studio 2012\Projects\C#\Aptean Edge Bank __ Archit Parnami\Source Code\ApteanEdgeBankDB\ApteanEdgeBankDB\obj\Debug\ApteanEdgeBankDB.pdb
